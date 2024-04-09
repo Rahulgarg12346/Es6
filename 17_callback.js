@@ -1,4 +1,9 @@
 // CALLBACKS
+
+// JavaScript mein, ek "callback function" ek function hoti hai jo dusre function mein parameter ke roop mein pass ki jati hai aur baad mein wo function execute hoti hai. Jab ek particular event ya operation complete hoti hai, tab callback function execute hoti hai.
+
+
+
 // A callback is a function passed as an argument to another function
 // function sum(a,b){
 //     console.log(a+b)

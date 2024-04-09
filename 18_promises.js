@@ -2,6 +2,11 @@
 
 // promise is for "eventual" completion of task. It is an object in JS. it is a solution to callback hell
 
+// JavaScript mein "Promise" ek built-in object hai jo asynchronous operations ko handle karne mein madad karta hai. Asynchronous operations wo operations hote hain jo ek saath execute nahi hote hain, balki background mein chal rahe hote hain aur unki completion ke baad specific actions ko trigger karte hain.//
+
+
+
+
 // let promise = new Promise((resolve, reject)=>{
 //     console.log(`i am a promise`)
 // })
